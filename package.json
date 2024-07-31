@@ -2,5 +2,8 @@
   "dependencies": {
     "@lhci/cli": "0.14.0",
     "ci": "^2.3.0"
+  },
+  "scripts": {
+    "build": "webpack"
   }
 }
